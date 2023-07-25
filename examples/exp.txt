@@ -1,0 +1,5 @@
+Euler method got 1002 steps, max rel err = 0.05167716448732684.
+RK4 method got 102 steps, max rel err = 9.149053072698976e-06.
+Implicit Euler method got 1002 steps, max rel err = 0.05097553729673554.
+Trapezium method got 1002 steps, max rel err = 8.342139748207522e-05.
+RKF method got 103 steps, max rel err = 1.5683599816629368e-06.
